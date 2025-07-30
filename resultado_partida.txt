@@ -1,0 +1,6 @@
+Nombre: isa..........Nombre: aaa
+Color: Rojo..........Color: Azul
+Cantidad de alfombras: 0..........Cantidad alfombras: 0
+Cantidad de monedas: 6..........Cantidad monedas: 34
+
+El ganador es aaa
